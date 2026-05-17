@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Local LLM](https://img.shields.io/badge/LLM-local%20%2F%20offline-orange)
 # Arquitectura de comprensión literaria
 
 Pipeline multiagente local para extraer comprensión narrativa de manuscritos largos y producir una valoración editorial estructurada. Cada fragmento del texto pasa por varios sensores especializados (escena, entidades, emociones, conflicto, tiempo), los resultados se cruzan en índices por personaje y, finalmente, un evaluador editorial puntúa la novela criterio a criterio.

@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Artefactos del análisis (cada usuario regenera los suyos)
+indices/
+estado.json
+informe.md
+informe.json
+
+# Manuscrito personal — NO subir contenido literario propio al repo
+ficheros/
+ficheros_total/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*~
